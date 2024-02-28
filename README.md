@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm IMRAN HOSSAIN</h1>
 <h3 align="center">A passionate mern-stack developer from Bangladesh</h3>
-<img align="right" width="400" src="https://i.ibb.co/swyvPZr/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" />
+<img  width="400" src="https://i.ibb.co/swyvPZr/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran122&label=Profile%20views&color=0e75b6&style=flat" alt="imran122" /> </p>
 
 - 🌱 I’m currently learning **docker, typescript ,GCP**
