@@ -5,17 +5,17 @@
 
 
 ## Skills
-<h4> Programming Language:  <code class="" style="color: Blue"> JavaScript </code>  </h4>
-- Front-End Technology: React Js, Next Js
-- Front-End Tools:  Redux.
-- Back-End Technology:  Node Js, Express Js.
-- CSS Framework:  Bootstrap5, Tailwind CSS.
-- Database:  MongoDB, PostgreSQL, Firebase.
-- Operating  System: Linux (Ubuntu), Windows 10.
-- Server Configuration:  worked with cloud server(Google Cloud)
-- Linux, Knowledge in Virtual Box, Linux Command.
-- knowledge with github and git version control.
-- knowledge with socket.io
+<h4>  Programming Language:  <code style="color: Blue"> JavaScript </code>  </h4>
+<h4>  Front-End Technology: <code style="color: Blue"> React Js, Next Js</code> </h4>
+<h4>  Front-End Tools:  <code style="color: Blue"> Redux. </code></h4>
+<h4>  Back-End Technology:  <code style="color: Blue"> Node Js, Express Js.</code> </h4>
+<h4>  CSS Framework:  <code style="color: Blue"> Bootstrap5, Tailwind CSS. </code></h4>
+<h4>  Database:  <code style="color: Blue"> MongoDB, PostgreSQL, Firebase.</code> </h4>
+<h4>  Operating  System: <code style="color: Blue"> Linux (Ubuntu), Windows 10.</code> </h4>
+<h4>  Server Configuration:  <code style="color: Blue"> worked with cloud server(Google Cloud)</code> </h4>
+<h4>  Linux, Knowledge in Virtual Box, Linux Command. </h4>
+<h4>  knowledge with github and git version control. </h4>
+<h4>  knowledge with socket.io </h4>
 
 
 - 🌱 I’m currently learning **docker, typescript ,GCP**
