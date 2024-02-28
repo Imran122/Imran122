@@ -1,16 +1,28 @@
-### Hi there 👋
+# Welcome! 😄 I am IMRAN HOSSAIN
 
-<!--
-**Imran122/Imran122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as mern stack developer in gorgeous bangladesh ltd.
+- 🌱 I’m currently learning docker,typescript,cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Language: JavaScript.
+- Front-End Technology: React Js, Next Js
+- Front-End Tools: Redux.
+- Back-End Technology: Node Js, Express Js.
+- CSS Framework: Bootstrap5, Tailwind CSS.
+- Database: MongoDB, PostgreSQL, Firebase.
+- Operating System: Linux (Ubuntu), Windows 10.
+- Server Configuration: worked with cloud server(Google Cloud)
+- Linux, Knowledge in Virtual Box, Linux Command.
+- knowledge with github and git version control.
+- knowledge with socket.io
+
+## How to Reach Me
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/imran-hossain122/)
+
+## Random Dev Quote
+
+- "The best error message is the one that never shows up." - Thomas Fuchs
