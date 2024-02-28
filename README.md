@@ -5,12 +5,8 @@
 
 
 ## Skills
-<div class="flex">
-  - <h3>Programming Language:</h3> <p>JavaScript.</p>
-</div>
-<div class="flex">
- - <h3>Front-End Technology:</h3> <p>React Js, Next Js</p>
-</div>
+<div class="flex"> <h3>Programming Language:</h3> <p>JavaScript.</p> </div> <div class="flex"> <h3>Front-End Technology:</h3> <p>React Js, Next Js</p> </div>
+
 
 - <h3>Front-End Tools:</h3> Redux.
 - <h3>Back-End Technology:</h3> Node Js, Express Js.
