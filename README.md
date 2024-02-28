@@ -3,6 +3,22 @@
 <img  width="100%" src="https://i.ibb.co/swyvPZr/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran122&label=Profile%20views&color=0e75b6&style=flat" alt="imran122" /> </p>
 
+
+## Skills
+
+- <h3>Programming Language:</h3> JavaScript.
+- <h3>Front-End Technology:</h3> React Js, Next Js
+- <h3>Front-End Tools:</h3> Redux.
+- <h3>Back-End Technology:</h3> Node Js, Express Js.
+- <h3>CSS Framework:</h3> Bootstrap5, Tailwind CSS.
+- <h3>Database:</h3> MongoDB, PostgreSQL, Firebase.
+- <h3>Operating System:</h3> Linux (Ubuntu), Windows 10.
+- <h3>Server Configuration:</h3> worked with cloud server(Google Cloud)
+- Linux, Knowledge in Virtual Box, Linux Command.
+- knowledge with github and git version control.
+- knowledge with socket.io
+
+
 - 🌱 I’m currently learning **docker, typescript ,GCP**
 
 - 👨‍💻 All of my projects are available at [https://me-imran-hossain-portfolio.onrender.com/](https://me-imran-hossain-portfolio.onrender.com/)
