@@ -5,16 +5,14 @@
 
 
 ## Skills
-<div class="flex"> <h3>Programming Language:</h3> <p>JavaScript.</p> </div> <div class="flex"> <h3>Front-End Technology:</h3> <p>React Js, Next Js</p> </div>
-
-`<div class="flex"> <h3>Programming Language:</h3> <p>JavaScript.</p> </div>`
-
-- <h3>Front-End Tools:</h3> Redux.
-- <h3>Back-End Technology:</h3> Node Js, Express Js.
-- <h3>CSS Framework:</h3> Bootstrap5, Tailwind CSS.
-- <h3>Database:</h3> MongoDB, PostgreSQL, Firebase.
-- <h3>Operating System:</h3> Linux (Ubuntu), Windows 10.
-- <h3>Server Configuration:</h3> worked with cloud server(Google Cloud)
+- Programming Language:JavaScript
+- Front-End Technology:React Js, Next Js
+- Front-End Tools: Redux.
+- Back-End Technology:Node Js, Express Js.
+- CSS Framework: Bootstrap5, Tailwind CSS.
+- Database: MongoDB, PostgreSQL, Firebase.
+- Operating System: Linux (Ubuntu), Windows 10.
+- Server Configuration: worked with cloud server(Google Cloud)
 - Linux, Knowledge in Virtual Box, Linux Command.
 - knowledge with github and git version control.
 - knowledge with socket.io
