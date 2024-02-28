@@ -5,7 +5,7 @@
 
 
 ## Skills
-<h4> Programming Language:  <span style="color: blue;"> JavaScript </span>  </h4>
+<h4> Programming Language:  <code class="" style="color: blue"> JavaScript </code>  </h4>
 - Front-End Technology: React Js, Next Js
 - Front-End Tools:  Redux.
 - Back-End Technology:  Node Js, Express Js.
